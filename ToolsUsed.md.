@@ -1,0 +1,13 @@
+# Tools & Methodology
+
+## Nmap
+- Purpose: Identify open ports and exposed services.
+- Evidence: See /Evidence/nmap_scan.png.
+
+## OWASP ZAP (Passive Scan)
+- Purpose: Detect missing headers, insecure cookies.
+- Evidence: See /Evidence/zap_headers.png.
+
+## Browser DevTools
+- Purpose: Inspect cookies, HTTPS, and client-side issues.
+- Evidence: See /Evidence/devtools_cookies.png.
